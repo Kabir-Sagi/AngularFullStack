@@ -1,0 +1,19 @@
+.header {
+  position: absolute;
+  left:0px;
+  top:0px;
+  width:100%;
+  background-color: black;
+  color: yellow;
+  font-size: large;
+  margin: 0px;
+  padding:10px;
+  word-spacing: 5px;
+
+}
+.form {
+  margin-top: 80px;
+
+}
+
+
